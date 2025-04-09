@@ -1,1 +1,1 @@
-function toggleMenu(){document.getElementById("menu").classList.toggle("open")}
+function toggleMenu(){let e=document.getElementById("menu");e.classList.toggle("open")}
